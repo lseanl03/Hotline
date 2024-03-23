@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0eeb183c-907c-4777-89a8-a9f12ed8eede",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4500,
+  "height": 5508,
+  "platformSettings": {},
+  "subMetas": {
+    "vecteezy_fire-emoji-icon_20522257": {
+      "ver": "1.0.6",
+      "uuid": "7a7cb7fc-236e-4286-b3b9-184ae42c4743",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0eeb183c-907c-4777-89a8-a9f12ed8eede",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4500,
+      "height": 5508,
+      "rawWidth": 4500,
+      "rawHeight": 5508,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
